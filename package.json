@@ -1,0 +1,14 @@
+{
+  "name": "docker-demo-server",
+  "version": "1.0.0",
+  "description": "This is a simple server to demo if it's connect to a mysql db",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Austin Kuo",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.0",
+    "mysql": "^2.8.0"
+  }
+}
