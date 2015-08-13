@@ -1,5 +1,5 @@
 # ADockerJourney
-Let's start our docker journey!
+Let's start a docker journey!
 ## Demo commands
 * docker build -t "auszone/myserver" -f dockerfile  .
 * docker run --name demodb -e MYSQL_ROOT_PASSWORD=austinishandsome -d mysql/mysql-server:latest
