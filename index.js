@@ -2,7 +2,7 @@ var mysql      = require('mysql');
 var connection = mysql.createConnection({
   host     : process.env.MYSQL_PORT_3306_TCP_ADDR,
   user     : 'root',
-  password : 'austinishandsome',
+  password : 'password',
   database : ''
 });
 var res;
